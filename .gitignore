@@ -1,3 +1,5 @@
-/node_modules
-*.env
-*.swp
+*.log
+.DS_Store
+node_modules
+dist
+coverage
